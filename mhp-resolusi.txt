@@ -2,3 +2,6 @@ MHP Resolusi
 - Konsisten belajar dan mendapatkan nilai bagus
 - Membuat proyek Preadmisi
 - Membuat profil sendiri
+- Membuat perkiraan operasi
+- Membuat menu buat OK
+- Belajar Java
