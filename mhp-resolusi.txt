@@ -4,4 +4,5 @@ MHP Resolusi
 - Membuat profil sendiri
 - Membuat perkiraan operasi
 - Membuat menu buat OK
-- Belajar Java
+- Belajar PHP 
+- Belajar MYsql
